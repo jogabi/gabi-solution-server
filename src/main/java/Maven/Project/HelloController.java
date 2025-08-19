@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
     @GetMapping("/")
     public String home() {
-        return "서버 연결 성공안녕!!!!! 🎉";
+        return "서버 연결 성공안222녕!!!!! 🎉";
     }
 }
