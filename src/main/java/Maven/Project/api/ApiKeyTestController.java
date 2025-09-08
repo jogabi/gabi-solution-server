@@ -1,4 +1,4 @@
-package Maven.Project.user;
+package Maven.Project.api;
 
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.web.bind.annotation.GetMapping;
